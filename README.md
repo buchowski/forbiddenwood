@@ -1,2 +1,3 @@
-# 10k
-Submission for https://a-k-apart.com
+# Forbidden wood
+
+To view the source files, please visit https://github.com/buchowski/10k
